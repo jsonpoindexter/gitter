@@ -7,3 +7,6 @@ Interactive terminal for easily searching and cloning GitHub repositories using 
 
 ### Dependencies:
 * ghq - https://github.com/motemen/ghq
+
+### Example:
+![Example](http://www.giphy.com/gifs/5pUvXzeyeEQBz2gvNO)
